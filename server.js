@@ -6,8 +6,8 @@ const client = new Client({
 });
 
 const TOKEN = process.env.DISCORD_TOKEN;
-const GUILD_ID = "1415350389443661969";
-const ROLE_ID = "1479484508721123448";
+const GUILD_ID = "1391379856360734812";
+const ROLE_ID = "1400405101738459247";
 
 let currentCount = 0;
 
